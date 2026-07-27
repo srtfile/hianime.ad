@@ -297,7 +297,7 @@ def main():
     
     parser = argparse.ArgumentParser(description='HiAnime Incremental Scraper')
     parser.add_argument('--start', type=int, default=None, help='Start page (default: last+1)')
-    parser.add_argument('--end', type=int, default=259, help='End page')
+    parser.add_argument('--end', type=int, default=265, help='End page')
     parser.add_argument('--delay', type=float, default=0.5, help='Delay between pages')
     parser.add_argument('--output', default='data', help='Output directory')
     parser.add_argument('--full', action='store_true', help='Full scrape from page 1')
