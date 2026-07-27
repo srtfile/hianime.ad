@@ -1,9 +1,10 @@
 {
   "metadata": {
-    "last_updated": "2026-06-02T10:21:08.952061",
-    "total_anime": 8770,
+    "last_updated": "2026-07-27T14:14:15.772386",
+    "total_anime": 8888,
+    "new_anime_this_run": 118,
     "source": "hianime.ad",
-    "scraper_version": "2.0"
+    "scraper_version": "2.0-incremental"
   },
   "anime": [
     {
@@ -87705,6 +87706,1186 @@
       "type": "Movie",
       "year": "2017",
       "episodes": 1
+    },
+    {
+      "title": "20001 An Earth Odyssey",
+      "slug": "20001-an-earth-odyssey",
+      "url": "https://hianime.ad/watch/20001-an-earth-odyssey/ep-1",
+      "poster": "https://cdn.anizara.store/cover/9acf7769aeea55e2b2505c88710d4293.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": null,
+      "id": 8771
+    },
+    {
+      "title": "A Good Day to Ascend",
+      "slug": "a-good-day-to-ascend",
+      "url": "https://hianime.ad/watch/a-good-day-to-ascend/ep-1",
+      "poster": "https://cdn.anizara.store/cover/7467fc45e24ec8d8b9023385c2a6066d.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": 4,
+      "id": 8772
+    },
+    {
+      "title": "Above Myriads",
+      "slug": "above-myriads",
+      "url": "https://hianime.ad/watch/above-myriads/ep-1",
+      "poster": "https://cdn.anizara.store/cover/959776b99b006e5785c3a3364949ce47.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": 9,
+      "id": 8773
+    },
+    {
+      "title": "Anime AzurLane: Slow Ahead! Season 2",
+      "slug": "anime-azurlane-slow-ahead-season-2",
+      "url": "https://hianime.ad/watch/anime-azurlane-slow-ahead-season-2/ep-1",
+      "poster": "https://cdn.anizara.store/cover/24368c745de15b3d2d6279667debcba3.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8774
+    },
+    {
+      "title": "Assassination Classroom the Movie: Our Time",
+      "slug": "assassination-classroom-the-movie-our-time",
+      "url": "https://hianime.ad/watch/assassination-classroom-the-movie-our-time/ep-1",
+      "poster": "https://cdn.anizara.store/cover/75ac2c91d93efba8651671f18ec013d0.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": 1,
+      "id": 8775
+    },
+    {
+      "title": "Aware! Meisaku-kun (2026)",
+      "slug": "aware-meisaku-kun-2026",
+      "url": "https://hianime.ad/watch/aware-meisaku-kun-2026/ep-1",
+      "poster": "https://cdn.anizara.store/cover/7aaece81f2d731fbf8ee0ad3521002ac.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": null,
+      "id": 8776
+    },
+    {
+      "title": "BAKI-DOU: The Invincible Samurai Part 2",
+      "slug": "baki-dou-the-invincible-samurai-part-2",
+      "url": "https://hianime.ad/watch/baki-dou-the-invincible-samurai-part-2/ep-1",
+      "poster": "https://cdn.anizara.store/cover/048e2f1447691907b18b2a37e7ed2322.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": 12,
+      "id": 8777
+    },
+    {
+      "title": "Bananya At-Home Party",
+      "slug": "bananya-at-home-party",
+      "url": "https://hianime.ad/watch/bananya-at-home-party/ep-1",
+      "poster": "https://cdn.anizara.store/cover/d28d296b68b6ac1232353531256488b3.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": 1,
+      "id": 8778
+    },
+    {
+      "title": "BanG Dream! Yume∞Mita",
+      "slug": "bang-dream-yumemita",
+      "url": "https://hianime.ad/watch/bang-dream-yumemita/ep-1",
+      "poster": "https://cdn.anizara.store/cover/84ca205fe6bc691c41c3bfe5a2820a15.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 6,
+      "id": 8779
+    },
+    {
+      "title": "Beyond Time's Gaze 2",
+      "slug": "beyond-times-gaze-2",
+      "url": "https://hianime.ad/watch/beyond-times-gaze-2/ep-1",
+      "poster": "https://cdn.anizara.store/cover/222afbe0d68c61de60374b96f1d86715.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": null,
+      "id": 8780
+    },
+    {
+      "title": "Biaoren 2",
+      "slug": "biaoren-2",
+      "url": "https://hianime.ad/watch/biaoren-2/ep-1",
+      "poster": "https://cdn.anizara.store/cover/7648557e5c7f1ecd407347dde3bd9927.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": 8,
+      "id": 8781
+    },
+    {
+      "title": "BLACK TORCH",
+      "slug": "black-torch",
+      "url": "https://hianime.ad/watch/black-torch/ep-1",
+      "poster": "https://cdn.anizara.store/cover/f90bebdc692f68ebf8f1dee68a01a8e0.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8782
+    },
+    {
+      "title": "BLEACH: Thousand-Year Blood War - The Calamity",
+      "slug": "bleach-thousand-year-blood-war-the-calamity",
+      "url": "https://hianime.ad/watch/bleach-thousand-year-blood-war-the-calamity/ep-1",
+      "poster": "https://cdn.anizara.store/cover/65d90fc6d307590b14e9e1800d4e8eab.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 1,
+      "id": 8783
+    },
+    {
+      "title": "Boku no Hero Academia: I am a hero too",
+      "slug": "boku-no-hero-academia-i-am-a-hero-too",
+      "url": "https://hianime.ad/watch/boku-no-hero-academia-i-am-a-hero-too/ep-1",
+      "poster": "https://cdn.anizara.store/cover/1074cf6dee6fd3a453ea3fa9d190a430.webp",
+      "type": "Special",
+      "year": "",
+      "episodes": null,
+      "id": 8784
+    },
+    {
+      "title": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
+      "slug": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tataki-tsubushimasu",
+      "url": "https://hianime.ad/watch/buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tataki-tsubushimasu/ep-1",
+      "poster": "https://cdn.anizara.store/cover/349f8e8088df63050757dd8be4356216.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8785
+    },
+    {
+      "title": "Bungo Stray Dogs WAN! 2",
+      "slug": "bungo-stray-dogs-wan-2",
+      "url": "https://hianime.ad/watch/bungo-stray-dogs-wan-2/ep-1",
+      "poster": "https://cdn.anizara.store/cover/3de6a598010e6866124ddfa12d3d35cb.webp",
+      "type": "TV_SHORT",
+      "year": "",
+      "episodes": 4,
+      "id": 8786
+    },
+    {
+      "title": "Chiikawa: Ningyo no Shima no Himitsu",
+      "slug": "chiikawa-ningyo-no-shima-no-himitsu",
+      "url": "https://hianime.ad/watch/chiikawa-ningyo-no-shima-no-himitsu/ep-1",
+      "poster": "https://cdn.anizara.store/cover/b4b758962f17808746e9bb832a6fa4b8.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": null,
+      "id": 8787
+    },
+    {
+      "title": "Chikyuu Daisuki! Kikkun",
+      "slug": "chikyuu-daisuki-kikkun",
+      "url": "https://hianime.ad/watch/chikyuu-daisuki-kikkun/ep-1",
+      "poster": "https://cdn.anizara.store/cover/d5b03d3acb580879f82271ab4885ee5e.webp",
+      "type": "TV_SHORT",
+      "year": "",
+      "episodes": null,
+      "id": 8788
+    },
+    {
+      "title": "Clevatess Season 2",
+      "slug": "clevatess-season-2",
+      "url": "https://hianime.ad/watch/clevatess-season-2/ep-1",
+      "poster": "https://cdn.anizara.store/cover/3f00f874e9837b0ec850a34c85432d66.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8789
+    },
+    {
+      "title": "Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation",
+      "slug": "crayon-shin-chan-kikikaikai-ora-no-youkai-vacation",
+      "url": "https://hianime.ad/watch/crayon-shin-chan-kikikaikai-ora-no-youkai-vacation/ep-1",
+      "poster": "https://cdn.anizara.store/cover/f8a26bb636decd3a1cb482a444dad467.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": null,
+      "id": 8790
+    },
+    {
+      "title": "Crowned in a Hundred Days",
+      "slug": "crowned-in-a-hundred-days",
+      "url": "https://hianime.ad/watch/crowned-in-a-hundred-days/ep-1",
+      "poster": "https://cdn.anizara.store/cover/55063089b08df5797d3eebca7c087ed4.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": 10,
+      "id": 8791
+    },
+    {
+      "title": "Cyborg 009: Nemesis",
+      "slug": "cyborg-009-nemesis",
+      "url": "https://hianime.ad/watch/cyborg-009-nemesis/ep-1",
+      "poster": "https://cdn.anizara.store/cover/7866c91c59f8bffc92a79a7cd09f9af9.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": null,
+      "id": 8792
+    },
+    {
+      "title": "Dara-san of Reiwa",
+      "slug": "dara-san-of-reiwa",
+      "url": "https://hianime.ad/watch/dara-san-of-reiwa/ep-1",
+      "poster": "https://cdn.anizara.store/cover/bb96ff7f5c9505fd971126ecd171bec2.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8793
+    },
+    {
+      "title": "Dust of the Simulacrum",
+      "slug": "dust-of-the-simulacrum",
+      "url": "https://hianime.ad/watch/dust-of-the-simulacrum/ep-1",
+      "poster": "https://cdn.anizara.store/cover/5747a0021eb349e9c8d3667cf1a5e9ec.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": null,
+      "id": 8794
+    },
+    {
+      "title": "Echo",
+      "slug": "echo",
+      "url": "https://hianime.ad/watch/echo/ep-1",
+      "poster": "https://cdn.anizara.store/cover/10a409f7044f0c29cda1e2e2930fa6ef.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": null,
+      "id": 8795
+    },
+    {
+      "title": "Eclipse of Illusion SP: The Miasma War",
+      "slug": "eclipse-of-illusion-sp-the-miasma-war",
+      "url": "https://hianime.ad/watch/eclipse-of-illusion-sp-the-miasma-war/ep-1",
+      "poster": "https://cdn.anizara.store/cover/dc91d6e23d859879bbaf0a9d7f27fb77.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": null,
+      "id": 8796
+    },
+    {
+      "title": "Ever Night",
+      "slug": "ever-night",
+      "url": "https://hianime.ad/watch/ever-night/ep-1",
+      "poster": "https://cdn.anizara.store/cover/73bf6c41e241e28b89d0fb9e0c82f9ce.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": 15,
+      "id": 8797
+    },
+    {
+      "title": "FOXING: Kitsuné-tsuki",
+      "slug": "foxing-kitsune-tsuki",
+      "url": "https://hianime.ad/watch/foxing-kitsune-tsuki/ep-1",
+      "poster": "https://cdn.anizara.store/cover/0cc6928e741d75e7a92396317522069e.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": null,
+      "id": 8798
+    },
+    {
+      "title": "From Old Country Bumpkin to Master Swordsman Season 2",
+      "slug": "from-old-country-bumpkin-to-master-swordsman-season-2",
+      "url": "https://hianime.ad/watch/from-old-country-bumpkin-to-master-swordsman-season-2/ep-1",
+      "poster": "https://cdn.anizara.store/cover/c8d3a760ebab631565f8509d84b3b3f1.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8799
+    },
+    {
+      "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
+      "slug": "from-overshadowed-to-overpowered-second-reincarnation-of-a-talentless-sage",
+      "url": "https://hianime.ad/watch/from-overshadowed-to-overpowered-second-reincarnation-of-a-talentless-sage/ep-1",
+      "poster": "https://cdn.anizara.store/cover/f7fa6aca028e7ff4ef62d75ed025fe76.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": 5,
+      "id": 8800
+    },
+    {
+      "title": "Goodbye, Lara",
+      "slug": "goodbye-lara",
+      "url": "https://hianime.ad/watch/goodbye-lara/ep-1",
+      "poster": "https://cdn.anizara.store/cover/7eca143caaf49d9e3dc5c04961a314a0.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8801
+    },
+    {
+      "title": "Grand Blue Season 3",
+      "slug": "grand-blue-season-3",
+      "url": "https://hianime.ad/watch/grand-blue-season-3/ep-1",
+      "poster": "https://cdn.anizara.store/cover/e6051b3bfe716cc4a38c2f39ec199873.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8802
+    },
+    {
+      "title": "GROW UP SHOW -Sunflower Circus-",
+      "slug": "grow-up-show-sunflower-circus",
+      "url": "https://hianime.ad/watch/grow-up-show-sunflower-circus/ep-1",
+      "poster": "https://cdn.anizara.store/cover/bd6fd20524553da5f0504d31e4134500.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8803
+    },
+    {
+      "title": "Hana-Kimi Season 2",
+      "slug": "hana-kimi-season-2",
+      "url": "https://hianime.ad/watch/hana-kimi-season-2/ep-1",
+      "poster": "https://cdn.anizara.store/cover/c6224c1be072bf5556817749c32e40c6.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 5,
+      "id": 8804
+    },
+    {
+      "title": "Hanaori-san Still Wants to Fight in the Next Life",
+      "slug": "hanaori-san-still-wants-to-fight-in-the-next-life",
+      "url": "https://hianime.ad/watch/hanaori-san-still-wants-to-fight-in-the-next-life/ep-1",
+      "poster": "https://cdn.anizara.store/cover/e6abb6620be44e2035008f84888a43b1.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8805
+    },
+    {
+      "title": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+      "slug": "hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru-2nd-season",
+      "url": "https://hianime.ad/watch/hell-mode-yarikomi-zuki-no-gamer-wa-haisettei-no-isekai-de-musou-suru-2nd-season/ep-1",
+      "poster": "https://cdn.anizara.store/cover/71f538c5db462f9bf1c7a8521c622c41.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8806
+    },
+    {
+      "title": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
+      "slug": "heroine-saint-no-im-an-all-works-maid-and-proud-of-it",
+      "url": "https://hianime.ad/watch/heroine-saint-no-im-an-all-works-maid-and-proud-of-it/ep-1",
+      "poster": "https://cdn.anizara.store/cover/4fc7e9c4df30aafd8b7e1ab324f27712.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": 5,
+      "id": 8807
+    },
+    {
+      "title": "Home!",
+      "slug": "home",
+      "url": "https://hianime.ad/watch/home/ep-1",
+      "poster": "https://cdn.anizara.store/cover/4c26774d852f62440fc746ea4cdd57f6.webp",
+      "type": "ONA",
+      "year": "2021",
+      "episodes": 1,
+      "id": 8808
+    },
+    {
+      "title": "Honoo no Toukyuujyo Dodge Danko",
+      "slug": "honoo-no-toukyuujyo-dodge-danko",
+      "url": "https://hianime.ad/watch/honoo-no-toukyuujyo-dodge-danko/ep-1",
+      "poster": "https://cdn.anizara.store/cover/eca336bc46296c1aced239fbfb803b5c.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8809
+    },
+    {
+      "title": "I Became a Legend After My 10 Year-Long Last Stand",
+      "slug": "i-became-a-legend-after-my-10-year-long-last-stand",
+      "url": "https://hianime.ad/watch/i-became-a-legend-after-my-10-year-long-last-stand/ep-1",
+      "poster": "https://cdn.anizara.store/cover/6c752cebb3e95bbb82cb59c3e19a27bf.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": 4,
+      "id": 8810
+    },
+    {
+      "title": "I Want to Love You Till Your Dying Day",
+      "slug": "i-want-to-love-you-till-your-dying-day",
+      "url": "https://hianime.ad/watch/i-want-to-love-you-till-your-dying-day/ep-1",
+      "poster": "https://cdn.anizara.store/cover/749b3dec12dee44c9594af615a9de86b.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8811
+    },
+    {
+      "title": "Ibitte Konai Gibo to Gishi",
+      "slug": "ibitte-konai-gibo-to-gishi",
+      "url": "https://hianime.ad/watch/ibitte-konai-gibo-to-gishi/ep-1",
+      "poster": "https://cdn.anizara.store/cover/adb0e2c465ae2a4b7698a8901fdbb177.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8812
+    },
+    {
+      "title": "Iwamoto-senpai no Suisen",
+      "slug": "iwamoto-senpai-no-suisen",
+      "url": "https://hianime.ad/watch/iwamoto-senpai-no-suisen/ep-1",
+      "poster": "https://cdn.anizara.store/cover/ac0071f018d6ac7568394853c44cef1f.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8813
+    },
+    {
+      "title": "Jaadugar: A Witch in Mongolia",
+      "slug": "jaadugar-a-witch-in-mongolia",
+      "url": "https://hianime.ad/watch/jaadugar-a-witch-in-mongolia/ep-1",
+      "poster": "https://cdn.anizara.store/cover/d9bd3e8809c72d9493d84928ab8c4497.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 5,
+      "id": 8814
+    },
+    {
+      "title": "Jiaonang Jihua: Qiji",
+      "slug": "jiaonang-jihua-qiji",
+      "url": "https://hianime.ad/watch/jiaonang-jihua-qiji/ep-1",
+      "poster": "https://cdn.anizara.store/cover/110e7d180dc9a996341b90c4e61101db.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": null,
+      "id": 8815
+    },
+    {
+      "title": "Jueshi Zhan Hun 2",
+      "slug": "jueshi-zhan-hun-2",
+      "url": "https://hianime.ad/watch/jueshi-zhan-hun-2/ep-1",
+      "poster": "https://cdn.anizara.store/cover/9f319422ca17b1082ea49820353f14ab.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": null,
+      "id": 8816
+    },
+    {
+      "title": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+      "slug": "kabushiki-gaisha-magi-lumiere-2nd-season",
+      "url": "https://hianime.ad/watch/kabushiki-gaisha-magi-lumiere-2nd-season/ep-1",
+      "poster": "https://cdn.anizara.store/cover/0c72cb7ee1512f800abe27823a792d03.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8817
+    },
+    {
+      "title": "KAIJU GIRL CARAMELISE",
+      "slug": "kaiju-girl-caramelise",
+      "url": "https://hianime.ad/watch/kaiju-girl-caramelise/ep-1",
+      "poster": "https://cdn.anizara.store/cover/54f3bc04830d762a3b56a789b6ff62df.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8818
+    },
+    {
+      "title": "Kidou Keisatsu Patlabor EZY File 2",
+      "slug": "kidou-keisatsu-patlabor-ezy-file-2",
+      "url": "https://hianime.ad/watch/kidou-keisatsu-patlabor-ezy-file-2/ep-1",
+      "poster": "https://cdn.anizara.store/cover/483101a6bc4e6c46a86222eb65fbcb6a.webp",
+      "type": "OVA",
+      "year": "",
+      "episodes": null,
+      "id": 8819
+    },
+    {
+      "title": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
+      "slug": "kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-nin-no-kanojo-3rd-season",
+      "url": "https://hianime.ad/watch/kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-nin-no-kanojo-3rd-season/ep-1",
+      "poster": "https://cdn.anizara.store/cover/df1a336b7e0b0cb186de6e66800c43a9.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8820
+    },
+    {
+      "title": "Kimi to Hanabi to Yakusoku to",
+      "slug": "kimi-to-hanabi-to-yakusoku-to",
+      "url": "https://hianime.ad/watch/kimi-to-hanabi-to-yakusoku-to/ep-1",
+      "poster": "https://cdn.anizara.store/cover/9c449771d0edc923c2713a7462cefa3b.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": null,
+      "id": 8821
+    },
+    {
+      "title": "Kore Kaite Shine",
+      "slug": "kore-kaite-shine",
+      "url": "https://hianime.ad/watch/kore-kaite-shine/ep-1",
+      "poster": "https://cdn.anizara.store/cover/6ba5bc4fe4c3f704112d0ba94020f4c2.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8822
+    },
+    {
+      "title": "Let's Go Kaikigumi",
+      "slug": "lets-go-kaikigumi",
+      "url": "https://hianime.ad/watch/lets-go-kaikigumi/ep-1",
+      "poster": "https://cdn.anizara.store/cover/22bb543b251c39ccdad8063d486987bb.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8823
+    },
+    {
+      "title": "LOCA!",
+      "slug": "loca",
+      "url": "https://hianime.ad/watch/loca/ep-1",
+      "poster": "https://cdn.anizara.store/cover/cf79ae6addba60ad018347359bd144d2.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": 1,
+      "id": 8824
+    },
+    {
+      "title": "Lord of Mysteries Specials",
+      "slug": "lord-of-mysteries-specials",
+      "url": "https://hianime.ad/watch/lord-of-mysteries-specials/ep-1",
+      "poster": "https://cdn.anizara.store/cover/42cbf4730aeac1d645324d4818104826.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": 3,
+      "id": 8825
+    },
+    {
+      "title": "Love Unseen Beneath the Clear Night Sky",
+      "slug": "love-unseen-beneath-the-clear-night-sky",
+      "url": "https://hianime.ad/watch/love-unseen-beneath-the-clear-night-sky/ep-1",
+      "poster": "https://cdn.anizara.store/cover/801a089759389ea9fa5f77ecc339f4be.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8826
+    },
+    {
+      "title": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+      "slug": "magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance",
+      "url": "https://hianime.ad/watch/magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance/ep-1",
+      "poster": "https://cdn.anizara.store/cover/1d7b813d77ada92b4c5998ec42a3cde9.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8827
+    },
+    {
+      "title": "Majo no Tani no Yoru",
+      "slug": "majo-no-tani-no-yoru",
+      "url": "https://hianime.ad/watch/majo-no-tani-no-yoru/ep-1",
+      "poster": "https://cdn.anizara.store/cover/c89e6d59f9753e53018cf8de933c1aaa.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": null,
+      "id": 8828
+    },
+    {
+      "title": "MEBIUS DUST",
+      "slug": "mebius-dust",
+      "url": "https://hianime.ad/watch/mebius-dust/ep-1",
+      "poster": "https://cdn.anizara.store/cover/376d41c34fac1e911e7e197b6a28270e.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8829
+    },
+    {
+      "title": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
+      "slug": "migawari-reijou-wo-sukutta-no-wa-reikoku-mujihi-na-koori-no-ouji-no-ai-deshita",
+      "url": "https://hianime.ad/watch/migawari-reijou-wo-sukutta-no-wa-reikoku-mujihi-na-koori-no-ouji-no-ai-deshita/ep-1",
+      "poster": "https://cdn.anizara.store/cover/76bba5ee241042431796c97a92e64f5d.webp",
+      "type": "TV_SHORT",
+      "year": "",
+      "episodes": 3,
+      "id": 8830
+    },
+    {
+      "title": "Nezumi-kun no Chokki (TV)",
+      "slug": "nezumi-kun-no-chokki-tv",
+      "url": "https://hianime.ad/watch/nezumi-kun-no-chokki-tv/ep-1",
+      "poster": "https://cdn.anizara.store/cover/171ae1bbb81475eb96287dd78565b38b.webp",
+      "type": "TV_SHORT",
+      "year": "",
+      "episodes": null,
+      "id": 8831
+    },
+    {
+      "title": "Oh Boy, Was I Wrong About Her",
+      "slug": "oh-boy-was-i-wrong-about-her",
+      "url": "https://hianime.ad/watch/oh-boy-was-i-wrong-about-her/ep-1",
+      "poster": "https://cdn.anizara.store/cover/4c07fe24771249c343e70c32289c1192.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8832
+    },
+    {
+      "title": "ONE PIECE HEROINES",
+      "slug": "one-piece-heroines",
+      "url": "https://hianime.ad/watch/one-piece-heroines/ep-1",
+      "poster": "https://cdn.anizara.store/cover/4eb82f891b344474e99cab5955f075d7.webp",
+      "type": "Special",
+      "year": "",
+      "episodes": 1,
+      "id": 8833
+    },
+    {
+      "title": "Pan no Akachan (TV)",
+      "slug": "pan-no-akachan-tv",
+      "url": "https://hianime.ad/watch/pan-no-akachan-tv/ep-1",
+      "poster": "https://cdn.anizara.store/cover/b0a7a7f42f23cdf318b7a1088083f5aa.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": null,
+      "id": 8834
+    },
+    {
+      "title": "Peleliu: Rakuen no Guernica",
+      "slug": "peleliu-rakuen-no-guernica",
+      "url": "https://hianime.ad/watch/peleliu-rakuen-no-guernica/ep-1",
+      "poster": "https://cdn.anizara.store/cover/e572cc8a256bbf824c98a1278ffadc24.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": null,
+      "id": 8835
+    },
+    {
+      "title": "Perfect Addiction",
+      "slug": "perfect-addiction",
+      "url": "https://hianime.ad/watch/perfect-addiction/ep-1",
+      "poster": "https://cdn.anizara.store/cover/d5bd121564004e506f5610496ab2f876.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": 3,
+      "id": 8836
+    },
+    {
+      "title": "Plannosaurus Gachi Koseibutsu-bu",
+      "slug": "plannosaurus-gachi-koseibutsu-bu",
+      "url": "https://hianime.ad/watch/plannosaurus-gachi-koseibutsu-bu/ep-1",
+      "poster": "https://cdn.anizara.store/cover/1ce3e6e3f452828e23a0c94572bef9d9.webp",
+      "type": "TV_SHORT",
+      "year": "",
+      "episodes": null,
+      "id": 8837
+    },
+    {
+      "title": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+      "slug": "puella-magi-madoka-magica-the-movie-walpurgisnacht-rising",
+      "url": "https://hianime.ad/watch/puella-magi-madoka-magica-the-movie-walpurgisnacht-rising/ep-1",
+      "poster": "https://cdn.anizara.store/cover/6a0724f1d3e80fd5f761cacb7efe8593.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": null,
+      "id": 8838
+    },
+    {
+      "title": "Raised by Demons: Panda Li",
+      "slug": "raised-by-demons-panda-li",
+      "url": "https://hianime.ad/watch/raised-by-demons-panda-li/ep-1",
+      "poster": "https://cdn.anizara.store/cover/89562dccfeb1d0394b9ae7e09544dc70.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": null,
+      "id": 8839
+    },
+    {
+      "title": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
+      "slug": "rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school",
+      "url": "https://hianime.ad/watch/rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school/ep-1",
+      "poster": "https://cdn.anizara.store/cover/e105b88b3e1ac23ec811a708cd7edebf.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8840
+    },
+    {
+      "title": "Rusuban",
+      "slug": "rusuban",
+      "url": "https://hianime.ad/watch/rusuban/ep-1",
+      "poster": "https://cdn.anizara.store/cover/45988a729df28f554d96a5b9932b17e1.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": null,
+      "id": 8841
+    },
+    {
+      "title": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama",
+      "slug": "ryoumin-0-nin-start-no-henkyou-ryoushu-sama",
+      "url": "https://hianime.ad/watch/ryoumin-0-nin-start-no-henkyou-ryoushu-sama/ep-1",
+      "poster": "https://cdn.anizara.store/cover/0cc6ee01c82fc49c28706e0918f57e2d.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8842
+    },
+    {
+      "title": "Saga of Tanya the Evil Season 2",
+      "slug": "saga-of-tanya-the-evil-season-2",
+      "url": "https://hianime.ad/watch/saga-of-tanya-the-evil-season-2/ep-1",
+      "poster": "https://cdn.anizara.store/cover/6acb084470c0a8bdf431d5427d1f29bc.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8843
+    },
+    {
+      "title": "Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH",
+      "slug": "shibou-yuugi-de-meshi-wo-kuu-44cloudy-beach",
+      "url": "https://hianime.ad/watch/shibou-yuugi-de-meshi-wo-kuu-44cloudy-beach/ep-1",
+      "poster": "https://cdn.anizara.store/cover/6524341b411c77cdbd9dbc15f522c7b3.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": 1,
+      "id": 8844
+    },
+    {
+      "title": "Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu!",
+      "slug": "shin-keroro-gunsou-movie-fukkatsushite-sokkou-chikyuu-metsubou-no-kiki-de-arimasu",
+      "url": "https://hianime.ad/watch/shin-keroro-gunsou-movie-fukkatsushite-sokkou-chikyuu-metsubou-no-kiki-de-arimasu/ep-1",
+      "poster": "https://cdn.anizara.store/cover/503e7dbbd6217b9a591f3322f39b5a6c.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": null,
+      "id": 8845
+    },
+    {
+      "title": "Shiranuhi",
+      "slug": "shiranuhi",
+      "url": "https://hianime.ad/watch/shiranuhi/ep-1",
+      "poster": "https://cdn.anizara.store/cover/5bbf4a75e68db03be98166f8f87acd4b.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": null,
+      "id": 8846
+    },
+    {
+      "title": "Shou 3 Ashibe QQ Goma-chan",
+      "slug": "shou-3-ashibe-qq-goma-chan",
+      "url": "https://hianime.ad/watch/shou-3-ashibe-qq-goma-chan/ep-1",
+      "poster": "https://cdn.anizara.store/cover/7d38b1e9bd793d3f45e0e212a729a93c.webp",
+      "type": "TV_SHORT",
+      "year": "",
+      "episodes": null,
+      "id": 8847
+    },
+    {
+      "title": "Skeleton Knight in Another World Season 2",
+      "slug": "skeleton-knight-in-another-world-season-2",
+      "url": "https://hianime.ad/watch/skeleton-knight-in-another-world-season-2/ep-1",
+      "poster": "https://cdn.anizara.store/cover/a36adbc35e69b22acbf9f834a0deb286.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8848
+    },
+    {
+      "title": "Smoking Behind the Supermarket with You",
+      "slug": "smoking-behind-the-supermarket-with-you",
+      "url": "https://hianime.ad/watch/smoking-behind-the-supermarket-with-you/ep-1",
+      "poster": "https://cdn.anizara.store/cover/e2e5096d574976e8f115a8f1e0ffb52b.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8849
+    },
+    {
+      "title": "Snack Hazama",
+      "slug": "snack-hazama",
+      "url": "https://hianime.ad/watch/snack-hazama/ep-1",
+      "poster": "https://cdn.anizara.store/cover/a052f1fccf47b66d047f2234c53f1597.webp",
+      "type": "TV_SHORT",
+      "year": "",
+      "episodes": 4,
+      "id": 8850
+    },
+    {
+      "title": "Sora wa Akai Kawa no Hotori",
+      "slug": "sora-wa-akai-kawa-no-hotori",
+      "url": "https://hianime.ad/watch/sora-wa-akai-kawa-no-hotori/ep-1",
+      "poster": "https://cdn.anizara.store/cover/b97f138920c54acf5eb77d23bc318b12.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8851
+    },
+    {
+      "title": "Soreike! Anpanman: Pantan to Yakusoku no Hoshi",
+      "slug": "soreike-anpanman-pantan-to-yakusoku-no-hoshi",
+      "url": "https://hianime.ad/watch/soreike-anpanman-pantan-to-yakusoku-no-hoshi/ep-1",
+      "poster": "https://cdn.anizara.store/cover/9cd013fe250ebffc853b386569ab18c0.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": null,
+      "id": 8852
+    },
+    {
+      "title": "Sorry About My Little Brothers",
+      "slug": "sorry-about-my-little-brothers",
+      "url": "https://hianime.ad/watch/sorry-about-my-little-brothers/ep-1",
+      "poster": "https://cdn.anizara.store/cover/4990974d150d0de5e6e15a1454fe6b0f.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8853
+    },
+    {
+      "title": "Sparks of Tomorrow",
+      "slug": "sparks-of-tomorrow",
+      "url": "https://hianime.ad/watch/sparks-of-tomorrow/ep-1",
+      "poster": "https://cdn.anizara.store/cover/97ea3cfb64eeaa1edba65501d0bb3c86.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8854
+    },
+    {
+      "title": "Star Blazers: Space Battleship Yamato 3199",
+      "slug": "star-blazers-space-battleship-yamato-3199",
+      "url": "https://hianime.ad/watch/star-blazers-space-battleship-yamato-3199/ep-1",
+      "poster": "https://cdn.anizara.store/cover/c9bc734c0663a142b7bec265098f8dbf.webp",
+      "type": "OVA",
+      "year": "",
+      "episodes": 22,
+      "id": 8855
+    },
+    {
+      "title": "Starlight Scramble",
+      "slug": "starlight-scramble",
+      "url": "https://hianime.ad/watch/starlight-scramble/ep-1",
+      "poster": "https://cdn.anizara.store/cover/7bee424db269e7f9c5d0a68c7a635018.webp",
+      "type": "OVA",
+      "year": "",
+      "episodes": 2,
+      "id": 8856
+    },
+    {
+      "title": "Tales of Zestiria: Dawn of the Shepherd",
+      "slug": "tales-of-zestiria-dawn-of-the-shepherd",
+      "url": "https://hianime.ad/watch/tales-of-zestiria-dawn-of-the-shepherd/ep-1",
+      "poster": "https://cdn.anizara.store/cover/05e2a0647e260c355dd2b2175edb45b8.webp",
+      "type": "Special",
+      "year": "",
+      "episodes": 1,
+      "id": 8857
+    },
+    {
+      "title": "Tetsunabe no Jan!",
+      "slug": "tetsunabe-no-jan",
+      "url": "https://hianime.ad/watch/tetsunabe-no-jan/ep-1",
+      "poster": "https://cdn.anizara.store/cover/8e5e15c4e6d09c8333a17843461041a9.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8858
+    },
+    {
+      "title": "The Cat and the Dragon",
+      "slug": "the-cat-and-the-dragon",
+      "url": "https://hianime.ad/watch/the-cat-and-the-dragon/ep-1",
+      "poster": "https://cdn.anizara.store/cover/384cb854644425079baeec43aa82534f.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 5,
+      "id": 8859
+    },
+    {
+      "title": "The Chronicles of City God",
+      "slug": "cheng-huang-lu",
+      "url": "https://hianime.ad/watch/cheng-huang-lu/ep-1",
+      "poster": "https://cdn.anizara.store/cover/dbd90a665ea6f292f36ebdb3d442826d.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": 6,
+      "id": 8860
+    },
+    {
+      "title": "The Dangers in My Heart: The Movie",
+      "slug": "the-dangers-in-my-heart-the-movie",
+      "url": "https://hianime.ad/watch/the-dangers-in-my-heart-the-movie/ep-1",
+      "poster": "https://cdn.anizara.store/cover/24357dd085d2c4b1a88a7e0692e60294.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": 1,
+      "id": 8861
+    },
+    {
+      "title": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
+      "slug": "the-dukes-son-claims-he-wont-love-me-yet-showers-me-with-adoration",
+      "url": "https://hianime.ad/watch/the-dukes-son-claims-he-wont-love-me-yet-showers-me-with-adoration/ep-1",
+      "poster": "https://cdn.anizara.store/cover/ff82db7535530637af7f8a96284b3459.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8862
+    },
+    {
+      "title": "The Elusive Samurai Season 2",
+      "slug": "the-elusive-samurai-season-2",
+      "url": "https://hianime.ad/watch/the-elusive-samurai-season-2/ep-1",
+      "poster": "https://cdn.anizara.store/cover/ba3c95c2962d3aab2f6e667932daa3c5.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 2,
+      "id": 8863
+    },
+    {
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "slug": "the-exiled-heavy-knight-knows-how-to-game-the-system",
+      "url": "https://hianime.ad/watch/the-exiled-heavy-knight-knows-how-to-game-the-system/ep-1",
+      "poster": "https://cdn.anizara.store/cover/3f9e3767ef3b10a0de4c256d7ef9805d.webp",
+      "type": "TV",
+      "year": "2026",
+      "episodes": 4,
+      "id": 8864
+    },
+    {
+      "title": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
+      "slug": "the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world",
+      "url": "https://hianime.ad/watch/the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world/ep-1",
+      "poster": "https://cdn.anizara.store/cover/26cd8ecadce0d4efd6cc8a8725cbd1f8.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8865
+    },
+    {
+      "title": "THE GHOST IN THE SHELL",
+      "slug": "the-ghost-in-the-shell",
+      "url": "https://hianime.ad/watch/the-ghost-in-the-shell/ep-1",
+      "poster": "https://cdn.anizara.store/cover/070c425fd005e11aec1a90706dda66f5.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8866
+    },
+    {
+      "title": "The Insipid Prince's Furtive Grab for the Throne",
+      "slug": "the-insipid-princes-furtive-grab-for-the-throne",
+      "url": "https://hianime.ad/watch/the-insipid-princes-furtive-grab-for-the-throne/ep-1",
+      "poster": "https://cdn.anizara.store/cover/bf4334a2421c544eaa17629e52029ca1.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8867
+    },
+    {
+      "title": "The Oblivous Saint Can't Contain Her Power",
+      "slug": "the-oblivous-saint-cant-contain-her-power",
+      "url": "https://hianime.ad/watch/the-oblivous-saint-cant-contain-her-power/ep-1",
+      "poster": "https://cdn.anizara.store/cover/551fdbb810aff145c114b93867dd8bfd.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8868
+    },
+    {
+      "title": "The Ogre's Bride",
+      "slug": "the-ogres-bride",
+      "url": "https://hianime.ad/watch/the-ogres-bride/ep-1",
+      "poster": "https://cdn.anizara.store/cover/d0f5edad9ac19abed9e235c0fe0aa59f.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8869
+    },
+    {
+      "title": "THE RIBBON HERO",
+      "slug": "the-ribbon-hero",
+      "url": "https://hianime.ad/watch/the-ribbon-hero/ep-1",
+      "poster": "https://cdn.anizara.store/cover/060fd70a06ead2e1079d27612b84aff4.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": null,
+      "id": 8870
+    },
+    {
+      "title": "The Villager of Level 999",
+      "slug": "the-villager-of-level-999",
+      "url": "https://hianime.ad/watch/the-villager-of-level-999/ep-1",
+      "poster": "https://cdn.anizara.store/cover/d5ade38a2c9f6f073d69e1bc6b6e64c1.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 5,
+      "id": 8871
+    },
+    {
+      "title": "The World is Dancing",
+      "slug": "world-is-dancing",
+      "url": "https://hianime.ad/watch/world-is-dancing/ep-1",
+      "poster": "https://cdn.anizara.store/cover/709d00f20f8a1638608f109597a521a9.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": 5,
+      "id": 8872
+    },
+    {
+      "title": "The World's Strongest Rearguard",
+      "slug": "the-worlds-strongest-rearguard",
+      "url": "https://hianime.ad/watch/the-worlds-strongest-rearguard/ep-1",
+      "poster": "https://cdn.anizara.store/cover/9d86d83f925f2149e9edb0ac3b49229c.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8873
+    },
+    {
+      "title": "Theatre of Darkness: Yamishibai 17",
+      "slug": "theatre-of-darkness-yamishibai-17",
+      "url": "https://hianime.ad/watch/theatre-of-darkness-yamishibai-17/ep-1",
+      "poster": "https://cdn.anizara.store/cover/c165ed49edbd0e69b120bee701bdb794.webp",
+      "type": "TV_SHORT",
+      "year": "",
+      "episodes": null,
+      "id": 8874
+    },
+    {
+      "title": "Though I Am an Inept Villainess",
+      "slug": "though-i-am-an-inept-villainess",
+      "url": "https://hianime.ad/watch/though-i-am-an-inept-villainess/ep-1",
+      "poster": "https://cdn.anizara.store/cover/007202387c4274c570d9cb72943fc873.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8875
+    },
+    {
+      "title": "Thunder 3",
+      "slug": "thunder-3",
+      "url": "https://hianime.ad/watch/thunder-3/ep-1",
+      "poster": "https://cdn.anizara.store/cover/2b16a44bb65751bb0ebe5d8b42644bc4.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8876
+    },
+    {
+      "title": "Tomb Raider King",
+      "slug": "tomb-raider-king",
+      "url": "https://hianime.ad/watch/tomb-raider-king/ep-1",
+      "poster": "https://cdn.anizara.store/cover/0044deeec43ded19b952125079eb1781.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8877
+    },
+    {
+      "title": "TOMICA & TOM Season 2",
+      "slug": "tomica-tom-season-2",
+      "url": "https://hianime.ad/watch/tomica-tom-season-2/ep-1",
+      "poster": "https://cdn.anizara.store/cover/1a423f7c07a179ec243e82b0c017a034.webp",
+      "type": "TV_SHORT",
+      "year": "",
+      "episodes": null,
+      "id": 8878
+    },
+    {
+      "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+      "slug": "trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-season-2",
+      "url": "https://hianime.ad/watch/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-season-2/ep-1",
+      "poster": "https://cdn.anizara.store/cover/4c92d46d3b1aad8a64eb35d7312d067c.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8879
+    },
+    {
+      "title": "Unanswered//butterfly: Sword Art Online",
+      "slug": "unansweredbutterfly-sword-art-online",
+      "url": "https://hianime.ad/watch/unansweredbutterfly-sword-art-online/ep-1",
+      "poster": "https://cdn.anizara.store/cover/6e88ec1459f337d5bea6353f8bff8026.webp",
+      "type": "Movie",
+      "year": "",
+      "episodes": null,
+      "id": 8880
+    },
+    {
+      "title": "Ushiro no Shoumen Kamui-san",
+      "slug": "ushiro-no-shoumen-kamui-san",
+      "url": "https://hianime.ad/watch/ushiro-no-shoumen-kamui-san/ep-1",
+      "poster": "https://cdn.anizara.store/cover/6c2fdcf862a752ca2c9e49866a05e1df.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8881
+    },
+    {
+      "title": "Victoria of Many Faces",
+      "slug": "victoria-of-many-faces",
+      "url": "https://hianime.ad/watch/victoria-of-many-faces/ep-1",
+      "poster": "https://cdn.anizara.store/cover/21ca6d0cf2f25c4dbb35d8dc0b679c3f.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8882
+    },
+    {
+      "title": "Yani Neko",
+      "slug": "yani-neko",
+      "url": "https://hianime.ad/watch/yani-neko/ep-1",
+      "poster": "https://cdn.anizara.store/cover/f37c4630c796617ace93e19c350c321e.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8883
+    },
+    {
+      "title": "Yi Nian Yongheng 4",
+      "slug": "yi-nian-yongheng-4",
+      "url": "https://hianime.ad/watch/yi-nian-yongheng-4/ep-1",
+      "poster": "https://cdn.anizara.store/cover/17f5e6db87929fb55cebeb7fd58c1d41.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": null,
+      "id": 8884
+    },
+    {
+      "title": "Yoroi-Shinden Samurai Troopers Cour 2",
+      "slug": "yoroi-shinden-samurai-troopers-cour-2",
+      "url": "https://hianime.ad/watch/yoroi-shinden-samurai-troopers-cour-2/ep-1",
+      "poster": "https://cdn.anizara.store/cover/39d0a8908fbe6c18039ea8227f827023.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8885
+    },
+    {
+      "title": "You and I Are Polar Opposites Season 2",
+      "slug": "you-and-i-are-polar-opposites-season-2",
+      "url": "https://hianime.ad/watch/you-and-i-are-polar-opposites-season-2/ep-1",
+      "poster": "https://cdn.anizara.store/cover/7ac52e3f2729d1b3f6d2b7e8f6467226.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 4,
+      "id": 8886
+    },
+    {
+      "title": "Youjo Shenki 2",
+      "slug": "youjo-shenki-2",
+      "url": "https://hianime.ad/watch/youjo-shenki-2/ep-1",
+      "poster": "https://cdn.anizara.store/cover/f96f40bdb8cb393c6e35be1f7464e339.webp",
+      "type": "ONA",
+      "year": "",
+      "episodes": 3,
+      "id": 8887
+    },
+    {
+      "title": "Young Ladies Don't Play Fighting Games",
+      "slug": "young-ladies-dont-play-fighting-games",
+      "url": "https://hianime.ad/watch/young-ladies-dont-play-fighting-games/ep-1",
+      "poster": "https://cdn.anizara.store/cover/1511919f603e917ae2f763b63c5c15b6.webp",
+      "type": "TV",
+      "year": "",
+      "episodes": 3,
+      "id": 8888
     }
   ]
 }
