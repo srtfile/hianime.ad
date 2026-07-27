@@ -5,6 +5,17 @@ on:
     # Run every day at 00:00 UTC
     - cron: '0 0 * * *'
   workflow_dispatch:  # Allow manual trigger
+    inputs:
+      start_page:
+        description: 'Start page (e.g. 1)'
+        required: false
+        default: '1'
+        type: string
+      end_page:
+        description: 'End page (e.g. 259)'
+        required: false
+        default: '259'
+        type: string
 
 jobs:
   scrape:
@@ -28,9 +39,25 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
-      - name: Run scraper
+      - name: Run scraper (scheduled - first 5 pages)
+        if: github.event_name == 'schedule'
         run: |
-          python scrape_anime_urls_github.py --start 1 --end 259 --delay 0.5
+          echo "Scheduled run: scraping pages 1 to 5"
+          python scrape_anime_urls_github.py --start 1 --end 5 --delay 0.5
+
+      - name: Run scraper (scheduled - last page)
+        if: github.event_name == 'schedule'
+        run: |
+          echo "Scheduled run: scraping last page 259"
+          python scrape_anime_urls_github.py --start 259 --end 259 --delay 0.5
+
+      - name: Run scraper (manual)
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          START=${{ github.event.inputs.start_page }}
+          END=${{ github.event.inputs.end_page }}
+          echo "Manual run: scraping pages $START to $END"
+          python scrape_anime_urls_github.py --start $START --end $END --delay 0.5
 
       - name: Check for changes
         id: changes
@@ -48,5 +75,9 @@ jobs:
           git config --local user.name "github-actions[bot]"
           touch data/error.txt
           git add data/
-          git commit -m "Update anime URLs - $(date +'%Y-%m-%d %H:%M:%S')"
+          if [ "${{ github.event_name }}" == "schedule" ]; then
+            git commit -m "Update anime URLs (scheduled: pages 1-5 + 259) - $(date +'%Y-%m-%d %H:%M:%S')"
+          else
+            git commit -m "Update anime URLs (manual: pages ${{ github.event.inputs.start_page }}-${{ github.event.inputs.end_page }}) - $(date +'%Y-%m-%d %H:%M:%S')"
+          fi
           git push origin HEAD:${{ github.ref }}
