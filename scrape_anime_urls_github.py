@@ -43,6 +43,9 @@ class HiAnimeIncrementalScraper:
         self.new_anime = []
         self.failed_pages = []
         self.last_scraped_page = 0
+        
+        # Ensure error.txt always exists so git add never fails
+        self.error_file.touch(exist_ok=True)
     
     def log_error(self, message):
         """Log errors to error.txt"""
