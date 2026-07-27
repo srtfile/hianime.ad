@@ -48,8 +48,8 @@ jobs:
       - name: Run scraper (scheduled - last page)
         if: github.event_name == 'schedule'
         run: |
-          echo "Scheduled run: scraping last page 259"
-          python scrape_anime_urls_github.py --start 259 --end 259 --delay 0.5
+          echo "Scheduled run: scraping last pages 262-263"
+          python scrape_anime_urls_github.py --start 262 --end 263 --delay 0.5
 
       - name: Run scraper (manual)
         if: github.event_name == 'workflow_dispatch'
@@ -76,7 +76,7 @@ jobs:
           touch data/error.txt
           git add data/
           if [ "${{ github.event_name }}" == "schedule" ]; then
-            git commit -m "Update anime URLs (scheduled: pages 1-5 + 259) - $(date +'%Y-%m-%d %H:%M:%S')"
+            git commit -m "Update anime URLs (scheduled: pages 1-5 + 262-263) - $(date +'%Y-%m-%d %H:%M:%S')"
           else
             git commit -m "Update anime URLs (manual: pages ${{ github.event.inputs.start_page }}-${{ github.event.inputs.end_page }}) - $(date +'%Y-%m-%d %H:%M:%S')"
           fi
